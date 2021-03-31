@@ -9,7 +9,7 @@ BOT WHATSAPP TERMUX ONLY BY WEM
 <p align="center">
 # SC INI SAYA MODIFIKASI ATAU RECORD BY DAPPA
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-</p>
+
 * [`DappaUhuy`](https://github.com/dappauhuy)
 
 * [`YogiPw`](https://github.com/yogipw)
