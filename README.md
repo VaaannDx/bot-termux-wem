@@ -1,4 +1,4 @@
-# 🤖☘️ᴊᴀᴄᴋ BoT☘🤖
+# 𝓙𝓐𝓒𝓚 𝓑𝓞𝓣
 
 BOT WHATSAPP TERMUX ONLY BY WEM
 
